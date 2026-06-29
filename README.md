@@ -6,4 +6,6 @@ My work sits at the intersection of quantum information, machine learning, and n
 
 My technical stack includes Qiskit, PennyLane, Python, LaTeX, and Zotero, with experience in knowledge-graph based literature organization.
 
+Outside research, I enjoy hiking and traveling.
+
 Contact: [shehbaz.tariq@uni.lu](mailto:shehbaz.tariq@uni.lu)
